@@ -8,9 +8,10 @@
 .card {
     width: calc(100% - 50px);
     padding: 5px;
-    background:  linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);;
+    background: linear-gradient(90deg, rgb(2 0 36 / 38%) 0%, rgb(9 9 121 / 37%) 35%, rgb(0 212 255 / 46%) 100%);
     margin-top: 100px;
     border-radius: 20px;
+    box-shadow: 0px 0px 5px black;
 }
 
 .checkbox-container {
